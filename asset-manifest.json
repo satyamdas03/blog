@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/satyamdas03/blog.git/static/css/main.26c864ae.css",
+    "main.js": "/satyamdas03/blog.git/static/js/main.6862f31f.js",
+    "index.html": "/satyamdas03/blog.git/index.html",
+    "main.26c864ae.css.map": "/satyamdas03/blog.git/static/css/main.26c864ae.css.map",
+    "main.6862f31f.js.map": "/satyamdas03/blog.git/static/js/main.6862f31f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26c864ae.css",
+    "static/js/main.6862f31f.js"
+  ]
+}
